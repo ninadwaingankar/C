@@ -4,12 +4,12 @@
 int main()
 {
 	int i;
-	while(i<995)
+	for(i=0;i<7;i++)
 	{
 		
 	printf("Hello, World!\n");
-	i++;
 	}
 	return 0;
 
 }
+	
