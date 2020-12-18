@@ -31,7 +31,8 @@ int square(int n)
 	return n*n;
 }
 
-//this function caqlculates cube
+//cube branch
+//this function calculates cube
 int cube(int n)
 {
 	return n*n*n;
