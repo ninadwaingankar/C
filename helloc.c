@@ -15,10 +15,12 @@ int main()
 	x=square(n);
 	y=cube(n);
 	
-	
+	 
 	printf("This is square %d\n",x);
 	
 	printf("This is cube %d\n",y);
+	
+	printf("Thank you for using my program");
 	
 	return 0;
 }
@@ -34,6 +36,9 @@ int cube(int n)
 {
 	return n*n*n;
 }
+
+//this comment does nothing
+//also does nothing 
 
 
 
