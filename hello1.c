@@ -4,7 +4,7 @@
 
 int main()
 {
-	printf("Hello,World!"); 
+	printf("Hello,World!\n"); 
 	printf("This is my first C program by Udemy course");
 	return 0;
 }
