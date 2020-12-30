@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main()
 {
-	printf("Ninad\n");
-	printf("Waingankar\n");
+	printf("Ninad\n Waingankar\n");
+	printf("I'm bored");
 	return 0;
 }
